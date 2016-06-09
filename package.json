@@ -1,0 +1,17 @@
+{
+  "name": "depenpen",
+  "version": "1.0.0",
+  "description": "DepenPen is a light weight dependency injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "devDependencies": {
+    "should": "^8.4.0",
+    "sinon": "^1.17.4",
+    "bluebird": "^3.4.0",
+    "lodash": "^4.13.1"
+  },
+  "author": "Derek Rada",
+  "license": "GPL-3.0"
+}
