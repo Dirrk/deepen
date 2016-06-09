@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha ./test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dirrk/depenpen.git"
+  },
   "devDependencies": {
     "should": "^8.4.0",
     "sinon": "^1.17.4",
