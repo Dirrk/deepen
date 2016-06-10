@@ -1,4 +1,4 @@
-DepenPen
+Deepen
 =====
 
 Another dependency injection module? why not
@@ -8,7 +8,7 @@ Example:
 ```
 const lodash = require('lodash'),
       bluebird = require('bluebird'),
-      dp = require('depenpen')();
+      dp = require('deepen')();
 
 let barModel = {
   text: 'hello world!'
