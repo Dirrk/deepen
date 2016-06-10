@@ -1,14 +1,14 @@
 {
-  "name": "depenpen",
+  "name": "deepen",
   "version": "1.0.0",
-  "description": "DepenPen is a light weight dependency injection",
+  "description": "DeePen is a light weight dependency injection",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dirrk/depenpen.git"
+    "url": "https://github.com/Dirrk/deepen.git"
   },
   "devDependencies": {
     "should": "^8.4.0",
